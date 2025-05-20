@@ -1,3 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Exile&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
 
-/*variáveis
+/* variáveis */
+:root {
+    --primary-color: cornflowerblue;
+    --secondary-color: aquamarine;
+    --text-color: coral;
+    --background-color: khaki;
+    --button-hover: blueviolet;
+    --font-body: "Exile", system-ui;
+    --font-titulo: "Noto Serif", serif;
+}
